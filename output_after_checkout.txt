@@ -1,0 +1,29 @@
+commit 1da66a77cf685fde3bbd6de67d25baa2e66916e8
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:52:20 2017 +0530
+
+    movie reviews to be added
+
+commit 838f60b8f090247ba4e8d9c54121666a50d38bd0
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:44:11 2017 +0530
+
+    biblography updated
+
+commit 63e49b7159e214e31d69fdfefee244c34f654c44
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:41:31 2017 +0530
+
+    biblography file added
+
+commit b34fad3b73dc11464e4e8b55ed5ddefde66abe1a
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:32:39 2017 +0530
+
+    Tex file has been added
+
+commit bc923d74ccaf183846927774af3e46eb146812ec
+Author: varun khare <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:06:22 2017 +0530
+
+    Initial commit
