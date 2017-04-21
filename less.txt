@@ -1,0 +1,117 @@
+commit 98c011c373a020b40c73bb8462929858f61c81a1
+Author: psneh <psneh@iitk.ac.in>
+Date:   Fri Apr 21 17:00:23 2017 +0530
+
+     changes in reviews.tex
+
+commit 6c58f65459771992b935f09902bb12fcac757536
+Author: psneh <psneh@iitk.ac.in>
+Date:   Fri Apr 21 16:49:30 2017 +0530
+
+    Reviews added for other two movies
+
+commit bbcbadddf0bb41e75b88903091ea82c02eda49f2
+Merge: 626594f 2fbf76f
+Author: Srinivas <sairao1996@gmail.com>
+Date:   Mon Apr 3 07:26:08 2017 +0530
+
+    Merge branch 'Varun'
+    
+    Conflicts in reviews.tex as both Varun and Srinivas both made changes. Srinivas merged first with master. Varun merged next, and then resolved the conflict by editing reviews.tex.
+
+commit 626594f9d674855ef8224c0c1fe23fb0b4a0d7f5
+Author: Srinivas <sairao1996@gmail.com>
+Date:   Mon Apr 3 06:47:30 2017 +0530
+
+    Added Sholay Review
+
+commit 0cc50f033802e01ccb0c682495ddc5157b2fe0a6
+Author: Srinivas <sairao1996@gmail.com>
+Date:   Mon Apr 3 06:28:29 2017 +0530
+
+    Added .gitignore
+
+commit 2fbf76f90eca63a5376cbe485b984d72c9d97755
+Author: varun <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:46:22 2017 +0530
+
+    golmaal bibliography updated
+
+commit fed5f363b93f9352d1ee741d20e7735d83c277c6
+Author: varun <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:29:09 2017 +0530
+
+    review on golmaal added
+
+commit bc64a2cb0684243c2596ba05666421740fb13941
+Author: varun <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:16:18 2017 +0530
+
+    remove older file from git history
+
+commit 9ee232922bfca9e810d5097d3e38dba2624427b1
+Author: varun khare <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:13:26 2017 +0530
+
+    Update README.md
+
+commit d1a928fc0853387b17a5550eb11da3add5ed3261
+Author: varun <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:12:16 2017 +0530
+
+    rename question2.tex file
+
+commit eb254137bb546c3ef5cc0488877845811e9f68cb
+Author: varun <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:06:33 2017 +0530
+
+    proof of conflict
+
+commit 10612eb6e8990ae8c2565cec6594928de9ae61e9
+Merge: 5985bbb a8caa91
+Author: varun <varunkhare1234@gmail.com>
+Date:   Mon Apr 3 00:04:50 2017 +0530
+
+    question2.tex has been updated
+
+commit 5985bbb424f3f0ce8b3a7588b40e097cd540bf93
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:59:39 2017 +0530
+
+    Log files added
+
+commit 1da66a77cf685fde3bbd6de67d25baa2e66916e8
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:52:20 2017 +0530
+
+    movie reviews to be added
+
+commit a8caa91092ed7886bc6a29cfa66d4ff2fafcdabb
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:46:02 2017 +0530
+
+    removed name from question2.tex
+
+commit 838f60b8f090247ba4e8d9c54121666a50d38bd0
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:44:11 2017 +0530
+
+    biblography updated
+
+commit 63e49b7159e214e31d69fdfefee244c34f654c44
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:41:31 2017 +0530
+
+    biblography file added
+
+commit b34fad3b73dc11464e4e8b55ed5ddefde66abe1a
+Author: varun <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:32:39 2017 +0530
+
+    Tex file has been added
+
+commit bc923d74ccaf183846927774af3e46eb146812ec
+Author: varun khare <varunkhare1234@gmail.com>
+Date:   Sun Apr 2 23:06:22 2017 +0530
+
+    Initial commit
